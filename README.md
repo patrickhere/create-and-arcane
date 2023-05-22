@@ -2,8 +2,8 @@
 This is for the sharing and development of the modpack, Create &amp; More. 
 
 Mod List
--AkashicTome-1.6-23.jar
-alternate-current-mc1.19-1.5.0.jar
+- AkashicTome-1.6-23.jar
+- alternate-current-mc1.19-1.5.0.jar
 appleskin-forge-mc1.19-2.4.2.jar
 architectury-6.5.82-forge.jar
 artifacts-1.19.2-5.0.2.jar
