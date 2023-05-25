@@ -1,6 +1,6 @@
-# Create & More
+# Create & Arcane
 
-This is the official github and issue-tracker for Create & More, a Forge 1.19.2 based modpack that has steampunk-ish tech mods like Create, magic like Botania and Ars Nouveau, and exploratory mods like Relics and Enigmatic Legacy. 
+This is the official github and issue-tracker for Create & Arcane, a Forge 1.19.2 based modpack that has steampunk-ish tech mods like Create, magic like Botania and Ars Nouveau, and exploratory mods like Relics and Enigmatic Legacy. 
 
 ### Table of Contents
 
