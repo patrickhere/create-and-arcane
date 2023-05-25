@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="460" height="300" src="(https://github.com/patrickhere/create-and-arcane/assets/75187477/cea07b9f-3b3a-4c39-a7b6-d97207ca67ad)">
+</p>
 # Create & Arcane
 
 This is the official github and issue-tracker for Create & Arcane, a Forge 1.19.2 based modpack that has steampunk-ish tech mods like Create, magic like Botania and Ars Nouveau, and exploratory mods like Relics and Enigmatic Legacy. 
